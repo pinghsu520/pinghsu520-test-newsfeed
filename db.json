@@ -1,99 +1,14 @@
-
 [
-    {
-        "id": 6,
-        "caption": "Apparently we had reached a great height in the atmosphere, for the sky was a dead black, and the stars had ceased to twinkle. By the same illusion which lifts the ho",
-        "created_at": "2020-05-09T21:16:13.840165Z",
-        "updated_at": "2020-05-09T21:16:13.840224Z",
-        "image": null,
-        "user": {
-            "id": 1,
-            "username": "admin",
-            "first_name": "",
-            "last_name": "",
-            "email": "admin@gmail.com",
-            "bio": null,
-            "friends": []
-        }
-    },
-    {
-        "id": 5,
-        "caption": "aa",
-        "created_at": "2020-05-09T19:46:28.327731Z",
-        "updated_at": "2020-05-09T19:46:28.327996Z",
-        "image": null,
-        "user": {
-            "id": 1,
-            "username": "admin",
-            "first_name": "",
-            "last_name": "",
-            "email": "admin@gmail.com",
-            "bio": null,
-            "friends": []
-        }
-    },
-    {
-        "id": 4,
-        "caption": "I always loved looking at the sunset and check out this picture I took!",
-        "created_at": "2020-05-07T21:21:07.356246Z",
-        "updated_at": "2020-05-07T21:21:07.356334Z",
-        "image": null,
-        "user": {
-            "id": 1,
-            "username": "admin",
-            "first_name": "",
-            "last_name": "",
-            "email": "admin@gmail.com",
-            "bio": null,
-            "friends": []
-        }
-    },
-    {
-        "id": 3,
-        "caption": "dd",
-        "created_at": "2020-05-07T21:01:14.225856Z",
-        "updated_at": "2020-05-07T21:01:14.225919Z",
-        "image": null,
-        "user": {
-            "id": 1,
-            "username": "admin",
-            "first_name": "",
-            "last_name": "",
-            "email": "admin@gmail.com",
-            "bio": null,
-            "friends": []
-        }
-    },
-    {
-        "id": 2,
-        "caption": "ff",
-        "created_at": "2020-05-07T03:46:31.944515Z",
-        "updated_at": "2020-05-07T03:46:31.944661Z",
-        "image": null,
-        "user": {
-            "id": 1,
-            "username": "admin",
-            "first_name": "",
-            "last_name": "",
-            "email": "admin@gmail.com",
-            "bio": null,
-            "friends": []
-        }
-    },
-    {
-        "id": 1,
-        "caption": "gg",
-        "created_at": "2020-05-04T23:02:50.410857Z",
-        "updated_at": "2020-05-04T23:02:50.410912Z",
-        "image": null,
-        "user": {
-            "id": 1,
-            "username": "admin",
-            "first_name": "",
-            "last_name": "",
-            "email": "admin@gmail.com",
-            "bio": null,
-            "friends": []
-        }
-    }
+  {
+    "id": 1,
+    "title": "Post 1"
+  },
+  {
+    "id": 2,
+    "title": "Post 2"
+  },
+  {
+    "id": 3,
+    "title": "Post 3"
+  }
 ]
